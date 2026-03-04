@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "black_bar_playback.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

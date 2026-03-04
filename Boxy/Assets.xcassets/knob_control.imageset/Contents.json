@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "knob_control.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

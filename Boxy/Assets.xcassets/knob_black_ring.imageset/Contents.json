@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "knob_black_ring.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
