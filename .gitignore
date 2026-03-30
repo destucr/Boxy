@@ -1,0 +1,24 @@
+# Xcode
+#
+# gitignore contributors: add more repo specific exclude rules below
+# Mac OS X-specific
+.DS_Store
+
+# Xcode-specific
+build/
+DerivedData/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+*.hmap
+*.ipa
+*.playground.xcworkspace
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+.swiftpm/xcode/project.xcworkspace/xcuserdata/
+
+# App Store Connect CLI / Gemini CLI
+.gemini/tmp/
